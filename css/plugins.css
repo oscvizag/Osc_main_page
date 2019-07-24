@@ -1,0 +1,48 @@
+.event{
+    padding: 100px 0;
+    background: transparent;
+    }
+    .event .header{
+    margin-bottom: 50px
+    }
+    .event .owl-carousel .info {
+    position: relative;
+    overflow: hidden;
+    }
+    .event .owl-carousel .info img {
+    width: 100%;
+    height: 225px;
+    }
+    .event .owl-carousel .info .date {
+    position: absolute;
+    top: 3%;
+    background:#1a1a1a;
+    left: 3%;
+    color: #fff;
+    text-align: center;
+    padding: 4px 6px;
+    }
+    .event .owl-carousel .info .date p{
+    font-size: 12px
+    }
+    .event .owl-carousel .info .caption{
+    margin-top: 15px
+    }
+    .event .owl-carousel .info .caption h5>a {
+    font-size: 15px;
+    color: #1a1a1a
+    }
+    .event .owl-carousel .info .caption p {
+    font-size: 12px;
+    color: #aaa;
+    }
+    .blog .owl-carousel .info .caption .btn {
+    width: 120px;
+    height: 35px;
+    line-height: 35px;
+    }
+    .event .owl-carousel .info .caption .btn>span {
+    font-size: 10px;
+    letter-spacing: 1px;
+    left: 40px;
+    }
